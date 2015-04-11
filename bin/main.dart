@@ -4,5 +4,5 @@
 import 'package:Exercise1/Exercise1.dart' as Exercise1;
 
 main() {
-  print('Hello world: ${Exercise1.calculate()}!');
+  print('Hello world: ${Exercise1.calculateRabbits()}!');
 }
